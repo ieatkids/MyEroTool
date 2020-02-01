@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ieatkids/Projects/MyEroTool/Ertk/Ertk.csproj": {}
+  },
+  "projects": {
+    "/Users/ieatkids/Projects/MyEroTool/Ertk/Ertk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ieatkids/Projects/MyEroTool/Ertk/Ertk.csproj",
+        "projectName": "Ertk",
+        "projectPath": "/Users/ieatkids/Projects/MyEroTool/Ertk/Ertk.csproj",
+        "packagesPath": "/Users/ieatkids/.nuget/packages/",
+        "outputPath": "/Users/ieatkids/Projects/MyEroTool/Ertk/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ieatkids/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/ieatkids/Projects/MyEroTool/MyEroTool.SDK/MyEroTool.SDK.csproj": {
+                "projectPath": "/Users/ieatkids/Projects/MyEroTool/MyEroTool.SDK/MyEroTool.SDK.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ieatkids/Projects/MyEroTool/MyEroTool.SDK/MyEroTool.SDK.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ieatkids/Projects/MyEroTool/MyEroTool.SDK/MyEroTool.SDK.csproj",
+        "projectName": "MyEroTool.SDK",
+        "projectPath": "/Users/ieatkids/Projects/MyEroTool/MyEroTool.SDK/MyEroTool.SDK.csproj",
+        "packagesPath": "/Users/ieatkids/.nuget/packages/",
+        "outputPath": "/Users/ieatkids/Projects/MyEroTool/MyEroTool.SDK/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ieatkids/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

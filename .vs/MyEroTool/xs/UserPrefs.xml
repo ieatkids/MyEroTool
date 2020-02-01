@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{851D69B1-3D06-4F5C-9985-33F8DA84869D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/EroImageDownloader/Ertk.cs">
+    <Files>
+      <File FileName="src/Program.cs" Line="14" Column="2" />
+      <File FileName="src/EroImageDownloader/EroSite.cs" Line="18" Column="1" />
+      <File FileName="src/EroImageDownloader/Ertk.cs" Line="20" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyEroTool" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.src PreferredExecutionTarget="MonoDevelop.Default" />
+  <DisabledProjects>
+    <String>MyEroTool/MyEroTool.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

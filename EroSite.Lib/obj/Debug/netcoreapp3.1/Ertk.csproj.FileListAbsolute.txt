@@ -1,0 +1,11 @@
+/Users/ieatkids/Projects/MyEroTool/Ertk/bin/Debug/netcoreapp3.1/Ertk.deps.json
+/Users/ieatkids/Projects/MyEroTool/Ertk/bin/Debug/netcoreapp3.1/Ertk.dll
+/Users/ieatkids/Projects/MyEroTool/Ertk/bin/Debug/netcoreapp3.1/Ertk.pdb
+/Users/ieatkids/Projects/MyEroTool/Ertk/bin/Debug/netcoreapp3.1/MyEroTool.SDK.dll
+/Users/ieatkids/Projects/MyEroTool/Ertk/bin/Debug/netcoreapp3.1/MyEroTool.SDK.pdb
+/Users/ieatkids/Projects/MyEroTool/Ertk/obj/Debug/netcoreapp3.1/Ertk.csprojAssemblyReference.cache
+/Users/ieatkids/Projects/MyEroTool/Ertk/obj/Debug/netcoreapp3.1/Ertk.AssemblyInfoInputs.cache
+/Users/ieatkids/Projects/MyEroTool/Ertk/obj/Debug/netcoreapp3.1/Ertk.AssemblyInfo.cs
+/Users/ieatkids/Projects/MyEroTool/Ertk/obj/Debug/netcoreapp3.1/Ertk.csproj.CopyComplete
+/Users/ieatkids/Projects/MyEroTool/Ertk/obj/Debug/netcoreapp3.1/Ertk.dll
+/Users/ieatkids/Projects/MyEroTool/Ertk/obj/Debug/netcoreapp3.1/Ertk.pdb

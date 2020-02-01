@@ -1,0 +1,8 @@
+/Users/ieatkids/Projects/MyEroTool/MyEroTool.SDK/bin/Debug/netcoreapp3.1/MyEroTool.SDK.deps.json
+/Users/ieatkids/Projects/MyEroTool/MyEroTool.SDK/bin/Debug/netcoreapp3.1/MyEroTool.SDK.dll
+/Users/ieatkids/Projects/MyEroTool/MyEroTool.SDK/bin/Debug/netcoreapp3.1/MyEroTool.SDK.pdb
+/Users/ieatkids/Projects/MyEroTool/MyEroTool.SDK/obj/Debug/netcoreapp3.1/MyEroTool.SDK.csprojAssemblyReference.cache
+/Users/ieatkids/Projects/MyEroTool/MyEroTool.SDK/obj/Debug/netcoreapp3.1/MyEroTool.SDK.AssemblyInfoInputs.cache
+/Users/ieatkids/Projects/MyEroTool/MyEroTool.SDK/obj/Debug/netcoreapp3.1/MyEroTool.SDK.AssemblyInfo.cs
+/Users/ieatkids/Projects/MyEroTool/MyEroTool.SDK/obj/Debug/netcoreapp3.1/MyEroTool.SDK.dll
+/Users/ieatkids/Projects/MyEroTool/MyEroTool.SDK/obj/Debug/netcoreapp3.1/MyEroTool.SDK.pdb
