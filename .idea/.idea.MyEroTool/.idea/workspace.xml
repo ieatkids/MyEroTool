@@ -2,193 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="550c1594-7dee-47eb-b234-a40d63229ad2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyEroTool/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyEroTool/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyEroTool/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyEroTool/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyEroTool/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyEroTool/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyEroTool/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyEroTool/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/MyEroTool/xs/UserPrefs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/MyEroTool/xs/project-cache/MyEroTool-Debug.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/MyEroTool/xs/project-cache/MyEroTool-Release.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/MyEroTool/xs/project-cache/src-Debug.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/MyEroTool/xs/project-cache/src-Release.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/MyEroTool/xs/sqlite3/db.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/MyEroTool/xs/sqlite3/storage.ide" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/EroSite.Lib.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/Ertk.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/bin/Debug/netcoreapp3.1/EroSite.Lib.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/bin/Debug/netcoreapp3.1/EroSite.Lib.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/bin/Debug/netcoreapp3.1/Ertk.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/bin/Debug/netcoreapp3.1/MyEroTool.SDK.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/bin/Debug/netcoreapp3.1/MyEroTool.SDK.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/bin/Release/netcoreapp3.1/Ertk.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/bin/Release/netcoreapp3.1/Ertk.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/bin/Release/netcoreapp3.1/Ertk.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/bin/Release/netcoreapp3.1/MyEroTool.SDK.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/bin/Release/netcoreapp3.1/MyEroTool.SDK.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Debug/netcoreapp3.1/EroSite.Lib.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Debug/netcoreapp3.1/EroSite.Lib.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Debug/netcoreapp3.1/EroSite.Lib.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Debug/netcoreapp3.1/EroSite.Lib.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Debug/netcoreapp3.1/Ertk.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Debug/netcoreapp3.1/Ertk.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Debug/netcoreapp3.1/Ertk.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Debug/netcoreapp3.1/Ertk.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Debug/netcoreapp3.1/Ertk.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Debug/netcoreapp3.1/Ertk.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Debug/netcoreapp3.1/Ertk.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Debug/netcoreapp3.1/Ertk.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/EroSite.Lib.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/EroSite.Lib.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/EroSite.Lib.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/EroSite.Lib.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Ertk.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Ertk.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Ertk.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Ertk.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Release/netcoreapp3.1/Ertk.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Release/netcoreapp3.1/Ertk.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Release/netcoreapp3.1/Ertk.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Release/netcoreapp3.1/Ertk.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Release/netcoreapp3.1/Ertk.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Release/netcoreapp3.1/Ertk.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Release/netcoreapp3.1/Ertk.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/Release/netcoreapp3.1/Ertk.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EroSite.Lib/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/EroPost.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/IEroSite.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/MyEroTool.SDK.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/bin/Debug/netcoreapp3.1/MyEroTool.SDK.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/bin/Debug/netcoreapp3.1/MyEroTool.SDK.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/bin/Debug/netcoreapp3.1/MyEroTool.SDK.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/bin/Release/netcoreapp3.1/MyEroTool.SDK.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/bin/Release/netcoreapp3.1/MyEroTool.SDK.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/bin/Release/netcoreapp3.1/MyEroTool.SDK.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/Debug/netcoreapp3.1/MyEroTool.SDK.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/Debug/netcoreapp3.1/MyEroTool.SDK.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/Debug/netcoreapp3.1/MyEroTool.SDK.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/Debug/netcoreapp3.1/MyEroTool.SDK.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/Debug/netcoreapp3.1/MyEroTool.SDK.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/Debug/netcoreapp3.1/MyEroTool.SDK.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/Debug/netcoreapp3.1/MyEroTool.SDK.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/MyEroTool.SDK.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/MyEroTool.SDK.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/MyEroTool.SDK.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/MyEroTool.SDK.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/Release/netcoreapp3.1/MyEroTool.SDK.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/Release/netcoreapp3.1/MyEroTool.SDK.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/Release/netcoreapp3.1/MyEroTool.SDK.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/Release/netcoreapp3.1/MyEroTool.SDK.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/Release/netcoreapp3.1/MyEroTool.SDK.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/Release/netcoreapp3.1/MyEroTool.SDK.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/Release/netcoreapp3.1/MyEroTool.SDK.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/ImageTool.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/Properties/PublishProfiles/FolderProfile.pubxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/HtmlAgilityPack.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/MyEroTool" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/MyEroTool.SDK.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/MyEroTool.SDK.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/MyEroTool.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/MyEroTool.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/MyEroTool.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/MyEroTool.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/MyEroTool.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/ero_site/Ertk.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/src" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/src.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/src.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/src.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/src.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Debug/netcoreapp3.1/src.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/HtmlAgilityPack.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/MyEroTool" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/MyEroTool.SDK.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/MyEroTool.SDK.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/MyEroTool.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/MyEroTool.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/MyEroTool.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/MyEroTool.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/MyEroTool.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/ero_site/Ertk.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/publish/HtmlAgilityPack.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/publish/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/publish/System.Xml.XPath.XmlDocument.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/publish/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/publish/src" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/publish/src.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/publish/src.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/publish/src.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/publish/src.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/src" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/src.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/src.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/src.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Debug/netcoreapp3.1/MyEroTool" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Debug/netcoreapp3.1/MyEroTool.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Debug/netcoreapp3.1/MyEroTool.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Debug/netcoreapp3.1/MyEroTool.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Debug/netcoreapp3.1/MyEroTool.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Debug/netcoreapp3.1/MyEroTool.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Debug/netcoreapp3.1/MyEroTool.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Debug/netcoreapp3.1/MyEroTool.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Debug/netcoreapp3.1/MyEroTool.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Debug/netcoreapp3.1/src" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Debug/netcoreapp3.1/src.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Debug/netcoreapp3.1/src.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Debug/netcoreapp3.1/src.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Debug/netcoreapp3.1/src.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Debug/netcoreapp3.1/src.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Debug/netcoreapp3.1/src.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Debug/netcoreapp3.1/src.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Debug/netcoreapp3.1/src.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/MyEroTool.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/MyEroTool.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/MyEroTool.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/MyEroTool.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/MyEroTool" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/MyEroTool.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/MyEroTool.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/MyEroTool.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/MyEroTool.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/MyEroTool.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/MyEroTool.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/MyEroTool.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/MyEroTool.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/src" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/src.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/src.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/src.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/src.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/src.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/src.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/src.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/src.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/src.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/src.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/src.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEroTool/obj/src.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyEroTool.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EroImageDownloader/EroSite.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EroImageDownloader/Ertk.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool/MyEroTool.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyEroTool/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyEroTool/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyEroTool/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyEroTool/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EroSite.Lib/obj/EroSite.Lib.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EroSite.Lib/obj/EroSite.Lib.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EroSite.Lib/obj/EroSite.Lib.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EroSite.Lib/obj/EroSite.Lib.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EroSite.Lib/obj/EroSite.Lib.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EroSite.Lib/obj/EroSite.Lib.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EroSite.Lib/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EroSite.Lib/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEroTool.SDK/bin/Release/netcoreapp3.1/MyEroTool.SDK.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool.SDK/bin/Release/netcoreapp3.1/MyEroTool.SDK.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEroTool.SDK/obj/MyEroTool.SDK.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/MyEroTool.SDK.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEroTool.SDK/obj/MyEroTool.SDK.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/MyEroTool.SDK.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEroTool.SDK/obj/MyEroTool.SDK.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/MyEroTool.SDK.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEroTool.SDK/obj/Release/netcoreapp3.1/MyEroTool.SDK.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/Release/netcoreapp3.1/MyEroTool.SDK.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEroTool.SDK/obj/Release/netcoreapp3.1/MyEroTool.SDK.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/Release/netcoreapp3.1/MyEroTool.SDK.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEroTool.SDK/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool.SDK/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/MyEroTool.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/MyEroTool.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/MyEroTool.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool/bin/Release/netcoreapp3.1/MyEroTool.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEroTool/obj/MyEroTool.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool/obj/MyEroTool.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEroTool/obj/MyEroTool.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool/obj/MyEroTool.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEroTool/obj/MyEroTool.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool/obj/MyEroTool.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/MyEroTool.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/MyEroTool.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/MyEroTool.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/MyEroTool.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/MyEroTool.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool/obj/Release/netcoreapp3.1/MyEroTool.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEroTool/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyEroTool/obj/project.assets.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -260,9 +96,33 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected=".NET Project.MyEroTool">
+  <component name="RunManager" selected="Publish to folder.MyEroTool">
+    <configuration name="MyEroTool" type="DotNetFolderPublish" factoryName="Publish to folder" singleton="false" temporary="true">
+      <riderPublish runtime="osx-x64" self_contained="true" target_folder="$USER_HOME$/Downloads" target_framework="netcoreapp3.1" uuid_high="-8854805082386575524" uuid_low="-7384438870093035875" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyEroTool" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish runtime="osx-x64" target_folder="$PROJECT_DIR$/MyEroTool" target_framework="netcoreapp3.1" uuid_high="-8854805082386575524" uuid_low="-7384438870093035875" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyEroTool" type="DotNetFolderPublish" factoryName="Publish to folder" singleton="false" temporary="true">
+      <riderPublish runtime="osx-x64" target_folder="$USER_HOME$/Downloads" target_framework="netcoreapp3.1" uuid_high="-8854805082386575524" uuid_low="-7384438870093035875" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyEroTool" type="DotNetFolderPublish" factoryName="Publish to folder" singleton="false" temporary="true">
+      <riderPublish runtime="osx-x64" target_folder="$USER_HOME$/Downloads" target_framework="netcoreapp3.1" uuid_high="-8854805082386575524" uuid_low="-7384438870093035875" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyEroTool" type="DotNetFolderPublish" factoryName="Publish to folder" singleton="false" temporary="true">
+      <riderPublish runtime="osx-x64" target_folder="$PROJECT_DIR$/MyEroTool" target_framework="netcoreapp3.1" uuid_high="-8854805082386575524" uuid_low="-7384438870093035875" />
+      <method v="2" />
+    </configuration>
     <configuration name="Publish Ertk to folder" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
       <riderPublish uuid_high="-5258226292761145809" uuid_low="-7328029007177199043" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Publish MyEroTool to folder" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish runtime="osx-x64" target_folder="/Applications" target_framework="netcoreapp3.1" uuid_high="-8854805082386575524" uuid_low="-7384438870093035875" />
       <method v="2" />
     </configuration>
     <configuration name="MyEroTool" type="DotNetProject" factoryName=".NET Project">
@@ -285,7 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Publish to folder.Publish Ertk to folder" />
+        <item itemvalue="Publish to folder.MyEroTool" />
+        <item itemvalue="Publish to folder.MyEroTool" />
+        <item itemvalue="Publish to folder.MyEroTool" />
+        <item itemvalue="Publish to folder.MyEroTool" />
+        <item itemvalue="Publish to folder.MyEroTool" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +180,7 @@
       <workItem from="1580475881894" duration="31000" />
       <workItem from="1580522583764" duration="3994000" />
       <workItem from="1580541382789" duration="11948000" />
-      <workItem from="1580560995013" duration="4307000" />
+      <workItem from="1580560995013" duration="5907000" />
     </task>
     <servers />
   </component>
@@ -343,6 +207,14 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="598" y="286" key="#Publish_Ertk_to_folder/0.0.1792.1120@0.0.1792.1120" timestamp="1580562549251" />
+    <state x="598" y="286" key="#Publish_MyEroTool_to_folder" timestamp="1580566057430">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="598" y="286" key="#Publish_MyEroTool_to_folder/0.0.1792.1120@0.0.1792.1120" timestamp="1580566057430" />
+    <state x="598" y="286" key="#Publish_MyEroTool_to_folder_(1)" timestamp="1580567617588">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="598" y="286" key="#Publish_MyEroTool_to_folder_(1)/0.0.1792.1120@0.0.1792.1120" timestamp="1580567617588" />
     <state width="819" height="799" key="DebuggerActiveHint" timestamp="1580563510073">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>

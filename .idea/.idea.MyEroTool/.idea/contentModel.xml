@@ -9,7 +9,7 @@
         <e p="EroSite.Lib.csproj" t="IncludeRecursive" />
         <e p="Ertk.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
+          <e p="Release" t="Include">
             <e p="netcoreapp3.1" t="Include">
               <e p="EroSite.Lib.AssemblyInfo.cs" t="Include" />
             </e>
@@ -22,7 +22,7 @@
         <e p="ImageTool.cs" t="Include" />
         <e p="MyEroTool.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
+          <e p="Release" t="Include">
             <e p="netcoreapp3.1" t="Include">
               <e p="MyEroTool.AssemblyInfo.cs" t="Include" />
             </e>
@@ -41,7 +41,7 @@
         <e p="IEroSite.cs" t="Include" />
         <e p="MyEroTool.SDK.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
+          <e p="Release" t="Include">
             <e p="netcoreapp3.1" t="Include">
               <e p="MyEroTool.SDK.AssemblyInfo.cs" t="Include" />
             </e>
