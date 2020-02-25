@@ -403,9 +403,13 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
-/EroSite.Lib/bin/
-/EroSite.Lib/obj/
-/MyEroTool/bin/
-/MyEroTool/obj/
-/MyEroTool.SDK/bin/
-/MyEroTool.SDK/obj/
+
+/MyEroTool.Lib/obj
+/MyEroTool.Lib/bin
+/MyEroTool/obj
+/MyEroTool/bin
+/MyEroTool.SDK/obj
+/MyEroTool.SDK/bin  
+.gitignore
+
+*.cache

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEroTool.SDK", "MyEroTool.SDK\MyEroTool.SDK.csproj", "{5FEBC35E-B72F-4E79-89C5-BCEAF21C943E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EroSite.Lib", "EroSite.Lib\EroSite.Lib.csproj", "{B707070B-C75A-4E2F-9A4D-9C718B71D23D}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEroTool", "MyEroTool\MyEroTool.csproj", "{AE815C35-ABEC-4163-9927-090F3AE7524C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEroTool.Lib", "MyEroTool.Lib\MyEroTool.Lib.csproj", "{DA12813D-F62C-4502-96E1-5BF9D59992A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,13 +17,13 @@ Global
 		{5FEBC35E-B72F-4E79-89C5-BCEAF21C943E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FEBC35E-B72F-4E79-89C5-BCEAF21C943E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FEBC35E-B72F-4E79-89C5-BCEAF21C943E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B707070B-C75A-4E2F-9A4D-9C718B71D23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B707070B-C75A-4E2F-9A4D-9C718B71D23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B707070B-C75A-4E2F-9A4D-9C718B71D23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B707070B-C75A-4E2F-9A4D-9C718B71D23D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AE815C35-ABEC-4163-9927-090F3AE7524C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AE815C35-ABEC-4163-9927-090F3AE7524C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE815C35-ABEC-4163-9927-090F3AE7524C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE815C35-ABEC-4163-9927-090F3AE7524C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA12813D-F62C-4502-96E1-5BF9D59992A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA12813D-F62C-4502-96E1-5BF9D59992A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA12813D-F62C-4502-96E1-5BF9D59992A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA12813D-F62C-4502-96E1-5BF9D59992A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

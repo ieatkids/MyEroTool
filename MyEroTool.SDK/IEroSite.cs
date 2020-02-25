@@ -4,7 +4,7 @@ namespace MyEroTool.SDK
 {
     public interface IEroSite
     {
-        public List<EroPost> GetPosts();
-        public void GetImageUrls(ref EroPost post);
+        public List<EroPost> GetLatestPosts();
+        public List<string> GetImageUrlsInPost(EroPost post);
     }
 }
