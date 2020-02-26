@@ -5,7 +5,7 @@ using System.Net;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 
-namespace MyEroTool.SDK
+namespace MyEroTool
 {
     public static class DownloadHelper
     {

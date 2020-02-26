@@ -3,11 +3,11 @@ using System;
 using System.Runtime.Loader;
 using System.Collections.Generic;
 using System.Linq;
-using MyEroTool.SDK;
+using MyEroTool;
 using System.Text.Json;
 
 
-namespace MyEroTool
+namespace ConsoleApp
 {
     public class App
     {
@@ -18,7 +18,7 @@ namespace MyEroTool
         private App(Type eroSiteType)
         {
             EroSite = Activator.CreateInstance(eroSiteType) as IEroSite;
-            if (EroSite != null) EroPosts = EroSite.GetLatestPosts();
+            if (EroSite != null) EroPosts = EroSite.GetLatestPosts().ToList();
             var configFilePath = Path.Combine(Environment.CurrentDirectory, "configs.json");
             using var reader = new StreamReader(configFilePath);
             var configs = JsonSerializer.Deserialize<Dictionary<string, string>>(reader.ReadToEnd());
@@ -65,6 +65,7 @@ namespace MyEroTool
                     if (key == 'y') continue;
                     break;
                 }
+
                 ConsoleHelper.ShowHeaders("下载失败。请重新输入");
             }
         }

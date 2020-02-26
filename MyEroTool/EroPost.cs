@@ -1,4 +1,4 @@
-namespace MyEroTool.SDK
+namespace MyEroTool
 {
     public struct EroPost
     {

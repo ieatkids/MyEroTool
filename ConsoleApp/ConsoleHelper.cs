@@ -1,6 +1,6 @@
 using System;
 
-namespace MyEroTool
+namespace ConsoleApp
 {
     public static class ConsoleHelper
     {

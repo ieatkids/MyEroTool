@@ -1,4 +1,4 @@
-﻿namespace MyEroTool
+﻿namespace ConsoleApp
 {
     internal static class Program
     {

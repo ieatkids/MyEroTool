@@ -1,10 +1,10 @@
 using System.Collections.Generic;
 
-namespace MyEroTool.SDK
+namespace MyEroTool
 {
     public interface IEroSite
     {
-        public List<EroPost> GetLatestPosts();
-        public List<string> GetImageUrlsInPost(EroPost post);
+        public IEnumerable<EroPost> GetLatestPosts();
+        public IEnumerable<string> GetImageUrlsInPost(EroPost post);
     }
 }
