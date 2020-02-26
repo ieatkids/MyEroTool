@@ -1,9 +1,9 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEroTool.SDK", "MyEroTool.SDK\MyEroTool.SDK.csproj", "{5FEBC35E-B72F-4E79-89C5-BCEAF21C943E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEroTool", "MyEroTool\MyEroTool.csproj", "{5FEBC35E-B72F-4E79-89C5-BCEAF21C943E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEroTool", "MyEroTool\MyEroTool.csproj", "{AE815C35-ABEC-4163-9927-090F3AE7524C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{AE815C35-ABEC-4163-9927-090F3AE7524C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEroTool.Lib", "MyEroTool.Lib\MyEroTool.Lib.csproj", "{DA12813D-F62C-4502-96E1-5BF9D59992A8}"
 EndProject

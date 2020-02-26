@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>MyEroTool</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="HtmlAgilityPack" Version="1.11.21" />
+        <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    </ItemGroup>
+  
+    <ItemGroup>
+        <Content Include="../ero_sites/**" Link="%(RecursiveDir)ero_sites/%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" />
+        <Content Include="../configs.json" Link="%(RecursiveDir)%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" />
+    </ItemGroup>
+  
+    <ItemGroup>
+      <ProjectReference Include="..\MyEroTool\MyEroTool.csproj" />
+    </ItemGroup>
+
+</Project>

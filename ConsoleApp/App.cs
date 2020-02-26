@@ -3,78 +3,69 @@ using System;
 using System.Runtime.Loader;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net;
-using System.Net.Mime;
-using System.Threading.Tasks;
 using MyEroTool.SDK;
 using System.Text.Json;
 
 
 namespace MyEroTool
 {
-    public class EroImageDownloader
+    public class App
     {
-        private readonly IEroSite _eroSite;
-        private readonly string _imageFolderDir;
-
+        private IEroSite EroSite { get; }
+        private string ImageFolderDir { get; }
         private List<EroPost> EroPosts { get; }
 
-        internal EroImageDownloader(Type eroSiteType)
+        private App(Type eroSiteType)
         {
-            _eroSite = Activator.CreateInstance(eroSiteType) as IEroSite;
-            EroPosts = _eroSite.GetLatestPosts();
+            EroSite = Activator.CreateInstance(eroSiteType) as IEroSite;
+            if (EroSite != null) EroPosts = EroSite.GetLatestPosts();
             var configFilePath = Path.Combine(Environment.CurrentDirectory, "configs.json");
             using var reader = new StreamReader(configFilePath);
             var configs = JsonSerializer.Deserialize<Dictionary<string, string>>(reader.ReadToEnd());
-            _imageFolderDir = configs["image_folder"];
+            ImageFolderDir = configs["image_folder"];
         }
 
-        internal void ShowPosts()
+        private void OnShowPosts()
         {
             ConsoleHelper.ShowHeaders("以下是最新的内容：");
             EroPosts.ForEach(p => Console.WriteLine($"{EroPosts.IndexOf(p)}\t{p.Title}"));
         }
 
-        private void DownloadImages(int i)
+        private bool OnDownloadImages(string cin)
         {
-            var post = EroPosts[i];
-            var imageUrls = _eroSite.GetImageUrlsInPost(post);
-            ConsoleHelper.ShowHeaders($"开始下载，共计{imageUrls.Count}张图片");
-            var folderDir = Path.Combine(_imageFolderDir, _eroSite.GetType().Name, post.Id);
-            Directory.CreateDirectory(folderDir);
-            Task.WaitAll((
-                from url in imageUrls
-                let fileName = Path.Combine(folderDir, url.Split('/').Last())
-                let client = new WebClient()
-                select client.DownloadFileTaskAsync(url, fileName)
-            ).ToArray());
-            Console.WriteLine($"下载结束，{imageUrls.Count}张图片保存至文件夹{folderDir}");
+            try
+            {
+                var post = EroPosts[Convert.ToInt32(cin)];
+                var folderDir = Path.Combine(ImageFolderDir, EroSite.GetType().Name, post.Id);
+                DownloadHelper.DownloadImages(folderDir, EroSite.GetImageUrlsInPost(post));
+                return true;
+            }
+            catch (Exception e)
+            {
+#if DEBUG
+                Console.WriteLine(e);
+#endif
+                ConsoleHelper.ShowHeaders($"输入错误，无法识别的编号：【{cin}】");
+                return false;
+            }
         }
 
         private void Run()
         {
             while (true)
             {
-                ShowPosts();
+                OnShowPosts();
                 ConsoleHelper.ShowHeaders("输入编号开始下载 退出请输入q");
                 var cin = Console.ReadLine();
-                if (cin == null || cin.ToString() == "q'") return;
-                try
+                if (cin == "q") return;
+                if (OnDownloadImages(cin))
                 {
-                    DownloadImages(Convert.ToInt32(cin));
+                    ConsoleHelper.ShowHeaders("下载成功。是否继续下载？（y/n）");
+                    var key = Convert.ToChar(Console.ReadLine());
+                    if (key == 'y') continue;
+                    break;
                 }
-                catch (Exception e)
-                {
-#if DEBUG
-                    Console.WriteLine(e);
-#endif
-                    ConsoleHelper.ShowHeaders($"输入错误，无法识别的编号：【{cin}】");
-                }
-
-                ConsoleHelper.ShowHeaders("是否继续下载？（y/n）");
-                var key = Convert.ToChar(Console.ReadLine());
-                if (key == 'y') continue;
-                break;
+                ConsoleHelper.ShowHeaders("下载失败。请重新输入");
             }
         }
 
@@ -100,7 +91,7 @@ namespace MyEroTool
             try
             {
                 var number = Convert.ToInt32(Console.ReadLine());
-                var downloader = new EroImageDownloader(types[number]);
+                var downloader = new App(types[number]);
                 downloader.Run();
             }
             catch (Exception e)
